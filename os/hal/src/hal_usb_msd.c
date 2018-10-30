@@ -93,7 +93,7 @@ static const scsi_unit_serial_number_inquiry_response_t default_scsi_unit_serial
     0x80,
     0x00,
     0x08,
-    "00000000"
+    { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' }
 };
 
 
